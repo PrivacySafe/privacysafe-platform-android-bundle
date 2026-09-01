@@ -1,2 +1,2 @@
 # privacysafe-platform-android-bundle
-Privacysafe on Android (platform with bundled 3NWeb apps)
+Privacysafe platform bundle with 3NWeb apps for releases to Android stores.
